@@ -16,3 +16,11 @@
 [![Study Vault](https://img.shields.io/badge/-Study--Vault-purple?style=for-the-badge&logo=bookstack&logoColor=white)](./study_vault.md)
 
 ---
+> [!TIP]
+> **Daily Focus:** Don't forget to email the Math professor about the Chapter 3 reschedule! 📧
+
+> [!IMPORTANT]
+> **House Policy Paper:** 200 points up for grabs. Aiming for an A! 🖋️
+
+> [!NOTE]
+> **Photography Gig:** Charge camera batteries for the weekend grad shoot. 📸
