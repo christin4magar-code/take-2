@@ -24,3 +24,12 @@
 
 > [!NOTE]
 > **Photography Gig:** Charge camera batteries for the weekend grad shoot. 📸
+>
+---
+
+### 🌙 Late Night Study Vibe
+"Success is the sum of small efforts, repeated day in and day out."
+
+<div align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3RreXF6YmpxZ3RreXF6YmpxZ3RreXF6YmpxZ3RreXF6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxx66C3E7G8/giphy.gif" width="150px" />
+</div>
